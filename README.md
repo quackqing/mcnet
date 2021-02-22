@@ -6,3 +6,5 @@
 MCNet: An Efficient CNN Architecture for Robust Automatic Modulation Classification
 进行初步的实现，并没有进行验证
 后续会更新最新代码
+
+数据使用的是2018.01a的数据集合

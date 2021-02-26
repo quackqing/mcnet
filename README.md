@@ -8,3 +8,8 @@ MCNet: An Efficient CNN Architecture for Robust Automatic Modulation Classificat
 后续会更新最新代码
 
 数据使用的是2018.01a的数据集合
+
+
+2021年2月26日，网络结构调整好了，data_formate='channels_last'的数据结构
+
+下一步，调整为 data_formate='channels_first'的结构形式
